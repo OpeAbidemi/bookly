@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">bookly</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="appName">Bookly</string>
+    <string name="search_hint">Search books e.g The Dark Shadow</string>
+    <string name="popular_books">Popular Books</string>
+    <string name="free_books">Free Books</string>
+    <string name="paid_books">Paid Books</string>
+    <string name="demo_description">demo_description</string>
+    <string name="demo_author">demo_author</string>
+    <string name="demo_title">demo_title</string>
+    <string name="heart">heart</string>
+    <string name="back">back</string>
+    <string name="rating">Rating</string>
+    <string name="demo_rating">5.4</string>
+    <string name="language">Language</string>
+    <string name="demo_language">English</string>
+    <string name="pages">Pages</string>
+    <string name="demo_pages">302</string>
+    <string name="year">Year</string>
+    <string name="demo_year">2022</string>
+    <string name="persephone_is_the_goddess_of_spring_by_title_only_the_truth_is_since_she_was_a_little_girl_flowers_have_shriveled_at_her_touch_after_moving_to_new_athens_she_hopes_to_lead_an_unassuming_life_disguised_as_a_mortal_journalist_hades_god_of_the_dead_has_built_a_gambling_empire_in_the_mortal_world_and_his_favorite_bets_are_rumored_to_be_impossible_after_a_chance_encounter_with_hades_persephone_finds_herself_in_a_contract_with_the_god_of_the_dead_and_the_terms_are_impossible_persephone_must_create_life_in_the_underworld_or_lose_her_freedom_forever_the_bet_does_more_than_expose_persephone_s_failure_as_a_goddess_however_as_she_struggles_to_sow_the_seeds_of_her_freedom_love_for_the_god_of_the_dead_grows_and_it_s_forbidden">Persephone is the Goddess of Spring by title only. The truth is, since she was a little girl, flowers have shriveled at her touch. After moving to New Athens, she hopes to lead an unassuming life disguised as a mortal journalist. Hades, God of the Dead, has built a gambling empire in the mortal world and his favorite bets are rumored to be impossible. After a chance encounter with Hades, Persephone finds herself in a contract with the God of the Dead and the terms are impossible: Persephone must create life in the Underworld or lose her freedom forever. The bet does more than expose Persephone’s failure as a goddess, however. As she struggles to sow the seeds of her freedom, love for the God of the Dead grows—and it’s forbidden.</string>
+    <string name="description">Description</string>
+</resources>

@@ -44,7 +44,5 @@ class BookDetails : AppCompatActivity() {
         backIcon.setOnClickListener {
             finish()
         }
-
-
     }
 }
